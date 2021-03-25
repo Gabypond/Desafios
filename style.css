@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(75, 72, 72);
+}
+
+.name-list {
+    font-family: 'Lobster', cursive;
+    color: rgb(252, 252, 252);
+    font-size: 30px;
+    list-style-type: none;
+}
